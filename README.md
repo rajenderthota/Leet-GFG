@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
