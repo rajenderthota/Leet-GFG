@@ -56,27 +56,66 @@ class Solution {
         
 //         return result;
 
+//below is not good compared first solution
 
-
-Set<List<Integer>> result = new HashSet<>();
-        Arrays.sort(nums);  // Sort the array for ordering and to avoid duplicates
+// Set<List<Integer>> result = new HashSet<>();
+//         Arrays.sort(nums);  // Sort the array for ordering and to avoid duplicates
         
-        for (int i = 0; i < nums.length - 2; i++) {
-            Set<Integer> seen = new HashSet<>();
-            int target = -nums[i];  // Target is the negative of the current element
+//         for (int i = 0; i < nums.length - 2; i++) {
+//             Set<Integer> seen = new HashSet<>();
+//             int target = -nums[i];  // Target is the negative of the current element
             
-            for (int j = i + 1; j < nums.length; j++) {
-                int complement = target - nums[j];
+//             for (int j = i + 1; j < nums.length; j++) {
+//                 int complement = target - nums[j];
                 
-                if (seen.contains(complement)) {
-                    result.add(Arrays.asList(nums[i], complement, nums[j]));
-                }
+//                 if (seen.contains(complement)) {
+//                     result.add(Arrays.asList(nums[i], complement, nums[j]));
+//                 }
                 
-                seen.add(nums[j]);  // Add the current number to the set
-            }
+//                 seen.add(nums[j]);  // Add the current number to the set
+//             }
+//         }
+        
+//         return new ArrayList<>(result);  // Convert the set to a list of lists
+
+
+
+Arrays.sort(nums); // Sorted Array
+        List<List<Integer>> answer = new ArrayList<>();
+        
+        if (nums.length < 3) {
+            return answer;
         }
         
-        return new ArrayList<>(result);  // Convert the set to a list of lists
+        if (nums[0] > 0) {
+            return answer;
+        }
+        
+        HashMap<Integer, Integer> hashMap = new HashMap<>();
+        
+        for (int i = 0; i < nums.length; ++i) {
+            hashMap.put(nums[i], i);
+        }
+        
+        for (int i = 0; i < nums.length - 2; ++i) {
+            if (nums[i] > 0) {
+                break;
+            }
+            
+            for (int j = i + 1; j < nums.length - 1; ++j) {
+                int required = -1 * (nums[i] + nums[j]);
+                if (hashMap.containsKey(required) && hashMap.get(required) > j) {
+                    answer.add(Arrays.asList(nums[i], nums[j], required));
+                }
+                j = hashMap.get(nums[j]);
+            }
+            
+            i = hashMap.get(nums[i]);
+        }
+        
+        return answer;
+
 
     }
 }
+
