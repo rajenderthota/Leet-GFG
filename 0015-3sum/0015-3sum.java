@@ -80,41 +80,80 @@ class Solution {
 
 
 
-Arrays.sort(nums); // Sorted Array
-        List<List<Integer>> answer = new ArrayList<>();
+// Arrays.sort(nums); // Sorted Array
+//         List<List<Integer>> answer = new ArrayList<>();
         
-        if (nums.length < 3) {
-            return answer;
-        }
+//         if (nums.length < 3) {
+//             return answer;
+//         }
         
-        if (nums[0] > 0) {
-            return answer;
-        }
+//         if (nums[0] > 0) {
+//             return answer;
+//         }
         
-        HashMap<Integer, Integer> hashMap = new HashMap<>();
+//         HashMap<Integer, Integer> hashMap = new HashMap<>();
         
-        for (int i = 0; i < nums.length; ++i) {
-            hashMap.put(nums[i], i);
-        }
+//         for (int i = 0; i < nums.length; ++i) {
+//             hashMap.put(nums[i], i);
+//         }
         
-        for (int i = 0; i < nums.length - 2; ++i) {
-            if (nums[i] > 0) {
-                break;
-            }
+//         for (int i = 0; i < nums.length - 2; ++i) {
+//             if (nums[i] > 0) {
+//                 break;
+//             }
             
-            for (int j = i + 1; j < nums.length - 1; ++j) {
-                int required = -1 * (nums[i] + nums[j]);
-                if (hashMap.containsKey(required) && hashMap.get(required) > j) {
-                    answer.add(Arrays.asList(nums[i], nums[j], required));
-                }
-                j = hashMap.get(nums[j]);
-            }
+//             for (int j = i + 1; j < nums.length - 1; ++j) {
+//                 int required = -1 * (nums[i] + nums[j]);
+//                 if (hashMap.containsKey(required) && hashMap.get(required) > j) {
+//                     answer.add(Arrays.asList(nums[i], nums[j], required));
+//                 }
+//                 j = hashMap.get(nums[j]);
+//             }
             
-            i = hashMap.get(nums[i]);
-        }
+//             i = hashMap.get(nums[i]);
+//         }
         
-        return answer;
+//         return answer;
 
+
+       List<List<Integer>> result = Collections.synchronizedList(new ArrayList<>());
+        Arrays.sort(nums);  // Sort the array to use two-pointer technique
+
+        // Use parallel stream to parallelize the outer loop (the 'i' loop)
+        IntStream.range(0, nums.length - 2).parallel().forEach(i -> {
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                return;  // Skip duplicate elements for 'i' to avoid duplicate triplets
+            }
+
+            if (nums[i] > 0) {
+                return;  // No valid triplets if nums[i] is positive after sorting
+            }
+
+            int left = i + 1;
+            int right = nums.length - 1;
+            int target = -nums[i];
+
+            while (left < right) {
+                int sum = nums[left] + nums[right];
+                if (sum == target) {
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                    // Skip duplicates for left and right
+                    while (left < right && nums[left] == nums[left + 1]) left++;
+                    while (left < right && nums[right] == nums[right - 1]) right--;
+
+                    left++;
+                    right--;
+                } else if (sum < target) {
+                    left++;
+                } else {
+                    right--;
+                }
+            }
+        });
+
+        return result.stream().distinct().collect(Collectors.toList());  // Ensure no duplicates in the result
+    
 
     }
 }
