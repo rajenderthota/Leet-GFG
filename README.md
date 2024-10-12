@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
+| [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajenderthota/Leet-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rajenderthota/Leet-GFG/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
