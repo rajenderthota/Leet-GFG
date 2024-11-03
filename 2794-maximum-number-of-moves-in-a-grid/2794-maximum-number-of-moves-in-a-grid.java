@@ -1,27 +1,39 @@
 class Solution {
     public int maxMoves(int[][] grid) {
-        int rows = grid.length, cols = grid[0].length;
-        int[][] maxMovsAt = new int[rows][cols];
-        
-        for (int r = 0; r < rows; r++) {
-            maxMovsAt[r][0] = 1;
-        }
+        int rows = grid.length;
+        int columns = grid[0].length;
+        int[][] dp = new int[rows][columns];
 
-        int maxMovs = 0;
-        for (int c = 1; c < cols; c++) {
+        // Start from the last column and work backwards
+        for (int c = columns - 2; c >= 0; c--) {
             for (int r = 0; r < rows; r++) {
-                int left = (grid[r][c - 1] < grid[r][c] && maxMovsAt[r][c - 1] > 0) 
-                           ? maxMovsAt[r][c - 1] + 1 : 0;
-                int leftUpD = (r - 1 >= 0 && grid[r - 1][c - 1] < grid[r][c] && maxMovsAt[r - 1][c - 1] > 0) 
-                              ? maxMovsAt[r - 1][c - 1] + 1 : 0;
-                int leftDownD = (r + 1 < rows && grid[r + 1][c - 1] < grid[r][c] && maxMovsAt[r + 1][c - 1] > 0) 
-                                ? maxMovsAt[r + 1][c - 1] + 1 : 0;
-                
-                maxMovsAt[r][c] = Math.max(left, Math.max(leftUpD, leftDownD));
-                maxMovs = Math.max(maxMovs, maxMovsAt[r][c] - 1);
+                int maxMovesFromHere = 0;
+
+                // Check the top-right move
+                if (r > 0 && grid[r][c] < grid[r - 1][c + 1]) {
+                    maxMovesFromHere = Math.max(maxMovesFromHere, 1 + dp[r - 1][c + 1]);
+                }
+
+                // Check the right move
+                if (grid[r][c] < grid[r][c + 1]) {
+                    maxMovesFromHere = Math.max(maxMovesFromHere, 1 + dp[r][c + 1]);
+                }
+
+                // Check the bottom-right move
+                if (r < rows - 1 && grid[r][c] < grid[r + 1][c + 1]) {
+                    maxMovesFromHere = Math.max(maxMovesFromHere, 1 + dp[r + 1][c + 1]);
+                }
+
+                dp[r][c] = maxMovesFromHere;
             }
         }
 
-        return maxMovs;
+        // Find the maximum moves starting from any cell in the first column
+        int maxMoves = 0;
+        for (int r = 0; r < rows; r++) {
+            maxMoves = Math.max(maxMoves, dp[r][0]);
+        }
+
+        return maxMoves;
     }
 }
