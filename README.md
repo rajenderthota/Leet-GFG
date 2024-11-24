@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rajenderthota/Leet-GFG/tree/master/0076-minimum-window-substring) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3379-score-of-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/3379-score-of-a-string) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajenderthota/Leet-GFG/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajenderthota/Leet-GFG/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
