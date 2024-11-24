@@ -1,5 +1,24 @@
 class Solution {
-    public String addBinary(String a, String b) {
+
+
+public String addBinary(String a,String b){
+         StringBuilder result = new StringBuilder();
+        int i = a.length() - 1, j = b.length() - 1, carry = 0;
+        
+        // Loop through both strings from end to start
+        while (i >= 0 || j >= 0 || carry == 1) {
+            int sum = carry;
+            if (i >= 0) sum += a.charAt(i--) - '0'; // Add bit from a
+            if (j >= 0) sum += b.charAt(j--) - '0'; // Add bit from b
+            // Prepend the calculated bit to the result string
+            result.insert(0, sum % 2); // Use insert to prepend
+            carry = sum / 2; // Determine new carry
+        }
+        
+        return result.toString(); // No need to reverse
+}
+
+    public String testAddBinary(String a, String b) {
         
         //get the integer value in binary form 
         // Integer x=Integer.parseInt(a,2);
