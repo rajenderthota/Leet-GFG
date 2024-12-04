@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajenderthota/Leet-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rajenderthota/Leet-GFG/tree/master/0076-minimum-window-substring) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [3379-score-of-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
+| [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
