@@ -1,13 +1,8 @@
 class Solution {
     public int minSwap(int[] nums1, int[] nums2) {
-    int n=nums1.length;
-    int keep[]=new int[n];
-    int swap[]=new int[n];
-
+    int n=nums1.length,swap[]=new int[n],keep[]=new int[n];;
     //intial state 
-    keep[0]=0;
-    swap[0]=1;
-
+    keep[0]=0;swap[0]=1;
     for(int i=1;i<n;i++){
         //put default/infine value at ith index
         keep[i]=swap[i]=Integer.MAX_VALUE;
