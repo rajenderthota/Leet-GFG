@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajenderthota/Leet-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/rajenderthota/Leet-GFG/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
 | ------- |
