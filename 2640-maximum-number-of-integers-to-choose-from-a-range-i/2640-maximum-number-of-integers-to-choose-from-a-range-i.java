@@ -8,14 +8,14 @@ class Solution {
         }
 
         for(int i=1;i<=n;i++){
-            // if( !bannedSet.contains(i)){
-            //     if(sum+i < maxSum){
-            //         sum=sum+i;
-            //         count++;
-            //     }
-            // }
+            if( !bannedSet.contains(i)){
+                if(sum+i <= maxSum){
+                    sum=sum+i;
+                    count++;
+                }
+            }
 
-             if (bannedSet.contains(i)) {
+           /*  if (bannedSet.contains(i)) {
                 // Skip banned numbers
                 continue;
             }
@@ -28,6 +28,7 @@ class Solution {
             // Otherwise, add the number to the sum and increment the count
             sum += i;
             count++;
+            */
         }
        return count; 
     }
