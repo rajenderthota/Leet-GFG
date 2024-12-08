@@ -1,5 +1,60 @@
 class Solution {
-    public int maxTwoEvents(int[][] events) {
+
+//using dp code starts from here
+
+
+ public int maxTwoEvents(int[][] events) {
+        // Step 1: Sort events by their end time
+        Arrays.sort(events, (a, b) -> a[1] - b[1]);
+
+        int n = events.length;
+        int[] dp = new int[n];
+        int[] maxValue = new int[n]; // Max value considering all events up to this point
+
+        // Step 2: Initialize dp and maxValue arrays
+        dp[0] = events[0][2];
+        maxValue[0] = events[0][2];
+
+        for (int i = 1; i < n; i++) {
+            // Find the maximum value we can get by picking this event + the best non-overlapping event
+            int includeValue = events[i][2];
+            int idx = findLastNonOverlapping(events, i);
+            if (idx != -1) {
+                includeValue += maxValue[idx];
+            }
+            
+            // Update dp and maxValue
+            dp[i] = Math.max(dp[i - 1], includeValue);
+            maxValue[i] = Math.max(maxValue[i - 1], events[i][2]);
+        }
+
+        return dp[n - 1];
+    }
+
+    // Binary search to find the last event that ends before the current event starts
+    private int findLastNonOverlapping(int[][] events, int currentIndex) {
+        int low = 0, high = currentIndex - 1;
+        int target = events[currentIndex][0];
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (events[mid][1] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        
+        return high; // Return the index of the last non-overlapping event
+    }
+
+
+
+//using dp ends here
+
+
+
+    public int maxTwoEvents_regular_approach(int[][] events) {
         // Sort the events by their end times
         Arrays.sort(events, (a, b) -> a[1] - b[1]);
 
