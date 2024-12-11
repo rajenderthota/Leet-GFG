@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rajenderthota/Leet-GFG/tree/master/0155-min-stack) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Matrix
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/3427-special-array-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rajenderthota/Leet-GFG/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
