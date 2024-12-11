@@ -1,6 +1,24 @@
 class Solution {
 
 
+ public int maximumBeauty_exceedsTime(int []nums, int k){
+
+    // Use a HashMap to count occurrences of each adjusted value
+        Map<Integer, Integer> countMap = new HashMap<>();
+        int maxBeauty = 0;
+
+        for (int num : nums) {
+            // Adjust the number to fit within the range [num - k, num + k]
+            for (int i = num - k; i <= num + k; i++) {
+                countMap.put(i, countMap.getOrDefault(i, 0) + 1);
+                maxBeauty = Math.max(maxBeauty, countMap.get(i));
+            }
+        }
+
+        return maxBeauty;
+}
+
+
     public int maximumBeauty(int []flowers, int additions){
 
           // Calculate the maximum value after all possible additions.
