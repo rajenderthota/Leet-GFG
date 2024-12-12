@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/rajenderthota/Leet-GFG/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajenderthota/Leet-GFG/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rajenderthota/Leet-GFG/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
 |  |
