@@ -1,5 +1,31 @@
 class Solution {
-    public int[] getFinalState(int[] nums, int k, int multiplier) {
+
+
+ public int[] getFinalState(int[] nums, int k, int multiplier) {
+
+  int n = nums.length;
+
+        // Perform the operation k times
+        for (int i = 0; i < k; i++) {
+            int minIndex = 0; // Index to store the position of the minimum value
+
+            // Find the first occurrence of the minimum value
+            for (int j = 1; j < n; j++) {
+                if (nums[j] < nums[minIndex]) {
+                    minIndex = j;
+                }
+            }
+
+            // Multiply the minimum value at minIndex by multiplier
+            nums[minIndex] *= multiplier;
+        }
+
+        return nums; // Return the final array state
+
+ }
+
+
+    public int[] getFinalState_pq(int[] nums, int k, int multiplier) {
 int n = nums.length;
 
         // PriorityQueue to store pairs of (value, index), sorted by value then index
