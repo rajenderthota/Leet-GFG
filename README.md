@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajenderthota/Leet-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajenderthota/Leet-GFG/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajenderthota/Leet-GFG/tree/master/1917-maximum-average-pass-ratio) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rajenderthota/Leet-GFG/tree/master/0155-min-stack) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/rajenderthota/Leet-GFG/tree/master/2868-continuous-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
