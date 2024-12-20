@@ -118,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
