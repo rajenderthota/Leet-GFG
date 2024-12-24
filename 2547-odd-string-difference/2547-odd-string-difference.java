@@ -1,5 +1,29 @@
 class Solution {
-    public String oddString(String[] words) {
+
+
+public String oddString(String []words){
+     Map<List<Integer>, List<String>> map = new HashMap<>();
+        
+        for (String word : words) {
+            List<Integer> temp = new ArrayList<>();
+            for (int i = 1; i < word.length(); i++) {
+                temp.add(word.charAt(i) - word.charAt(i - 1));
+            }
+            map.putIfAbsent(temp, new ArrayList<>());
+            map.get(temp).add(word);
+        }
+        
+        for (Map.Entry<List<Integer>, List<String>> entry : map.entrySet()) {
+            if (entry.getValue().size() == 1) {
+                return entry.getValue().get(0);
+            }
+        }
+        
+        return words[0]; // this state will not occur
+}
+
+
+    public String oddString1(String[] words) {
         int n=words.length, m= words[0].length(),row=0;
         int dif[][]=new int[n][m];
         HashMap<String,String[]> difMap=new HashMap<>();
