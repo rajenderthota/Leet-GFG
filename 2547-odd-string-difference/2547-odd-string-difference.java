@@ -1,6 +1,43 @@
 class Solution {
 
 
+//----------another new approach -------------
+
+     static   int[] getDifferenceArray(String word) {
+            int n = word.length();
+            int[] diff = new int[n - 1];
+            for (int i = 1; i < n; i++) {
+                diff[i - 1] = word.charAt(i) - word.charAt(i - 1);
+            }
+            return diff;
+        };
+public String oddString(String[] words) {
+ // A helper function to calculate the difference array for a given string
+
+
+        // A map to count occurrences of difference arrays and track the original word
+        Map<String, List<String>> map = new HashMap<>();
+        
+        for (String word : words) {
+            int[] diffArray = getDifferenceArray(word);
+            String diffKey = Arrays.toString(diffArray); // Use the string representation of the array as the key
+            map.putIfAbsent(diffKey, new ArrayList<>());
+            map.get(diffKey).add(word);
+        }
+
+        // Find the key with only one word and return it
+        for (List<String> wordList : map.values()) {
+            if (wordList.size() == 1) {
+                return wordList.get(0); // The "odd" word
+            }
+        }
+
+        return ""; // This should never occur based on problem constraints
+}
+
+// -------------end of the approach
+
+//------------------------------------------------
      public static List<Integer> count(String w) {
 		int sum=0;
 		List<Integer> l=new ArrayList<Integer>();
@@ -10,7 +47,7 @@ class Solution {
 		return l;
 	}
 
-	public String oddString(String[] words) {
+	public String oddString4(String[] words) {
 		List<List<Integer>> l=new ArrayList<List<Integer>>();
 		for(int i=0;i<words.length;i++) {
 			String w=words[i];
@@ -28,7 +65,7 @@ class Solution {
 		}
 		return "";
 	}
-
+//------------------------------------
 
 public String oddString3(String []words){
     // Helper function to calculate the difference array for a word
