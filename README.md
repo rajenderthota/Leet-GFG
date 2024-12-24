@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/rajenderthota/Leet-GFG/tree/master/0046-permutations) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rajenderthota/Leet-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rajenderthota/Leet-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/rajenderthota/Leet-GFG/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rajenderthota/Leet-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rajenderthota/Leet-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
