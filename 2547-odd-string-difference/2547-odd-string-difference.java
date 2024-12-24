@@ -2,6 +2,35 @@ class Solution {
 
 
 public String oddString(String []words){
+    // Helper function to calculate the difference array for a word
+        Function<String, List<Integer>> diff = word -> {
+            List<Integer> differences = new ArrayList<>();
+            for (int j = 1; j < word.length(); j++) {
+                differences.add(word.charAt(j) - word.charAt(j - 1));
+            }
+            return differences;
+        };
+
+        // Sort the words based on their difference array
+        Arrays.sort(words, (a, b) -> {
+            List<Integer> diffA = diff.apply(a);
+            List<Integer> diffB = diff.apply(b);
+            for (int i = 0; i < Math.min(diffA.size(), diffB.size()); i++) {
+                if (!diffA.get(i).equals(diffB.get(i))) {
+                    return diffA.get(i) - diffB.get(i);
+                }
+            }
+            return diffA.size() - diffB.size();
+        });
+
+        // Check the first two and the last word to find the odd one
+        return !diff.apply(words[0]).equals(diff.apply(words[1])) ? words[0] : words[words.length - 1];
+    
+}
+
+
+
+public String oddString2(String []words){
      Map<List<Integer>, List<String>> map = new HashMap<>();
         
         for (String word : words) {
