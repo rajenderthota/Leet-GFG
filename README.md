@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
@@ -196,12 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rajenderthota/Leet-GFG/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0494-target-sum) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
