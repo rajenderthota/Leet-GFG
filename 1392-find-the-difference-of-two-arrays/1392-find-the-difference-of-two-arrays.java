@@ -1,55 +1,33 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
 
-        List<List<Integer>> result=new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
         // HashSet<Integer> nums1Set=new HashSet<Integer>(Arrays.asList(nums1));
 
-         // Convert to HashSet
-        HashSet<Integer> nums1Set = Arrays.stream(nums1)  // Create an IntStream
-                                          .boxed()        // Convert int to Integer
-                                          .collect(Collectors.toCollection(HashSet::new)); // Collect to HashSet
+        // Convert to HashSet
+        HashSet<Integer> nums1Set = Arrays.stream(nums1) // Create an IntStream
+                .boxed() // Convert int to Integer
+                .collect(Collectors.toCollection(HashSet::new)); // Collect to HashSet
 
-        HashSet<Integer> nums2Set = Arrays.stream(nums2)  // Create an IntStream
-                                          .boxed()        // Convert int to Integer
-                                          .collect(Collectors.toCollection(HashSet::new)); // Collect to HashSet
+        HashSet<Integer> nums2Set = Arrays.stream(nums2) // Create an IntStream
+                .boxed() // Convert int to Integer
+                .collect(Collectors.toCollection(HashSet::new)); // Collect to HashSet
 
-
-
-        // HashSet<Integer> nums2Set=new HashSet<Integer>(Arrays.asList(nums2));
-      
-        // Retain only common elements in nums1Set
-        // nums1Set.retainAll(nums2Set); // Modifies nums1Set to contain [3, 4]
-
-        List<Integer> nums1lst=new ArrayList<Integer>();
-
-            for(Integer num1:nums1Set){
-
-                    if( !nums2Set.contains(num1)){
-                        nums1lst.add(num1);
-                    }
+        List<Integer> nums1lst = new ArrayList<Integer>();
+        for (Integer num1 : nums1Set) {
+            if (!nums2Set.contains(num1)) {
+                nums1lst.add(num1);
             }
+        }
 
-            result.add(nums1lst);
-
-              List<Integer> nums2lst=new ArrayList<Integer>();
-
-            for(Integer num2:nums2Set){
-
-                    if( !nums1Set.contains(num2)){
-                        nums2lst.add(num2);
-                    }
+        result.add(nums1lst);
+        List<Integer> nums2lst = new ArrayList<Integer>();
+        for (Integer num2 : nums2Set) {
+            if (!nums1Set.contains(num2)) {
+                nums2lst.add(num2);
             }
-
-            result.add(nums2lst);
-
-
-        // Convert the result to an ArrayList
-        // result.add( nums1Set.stream().collect(Collectors.toCollection(ArrayList::new)));
-
-        // nums2Set.retainAll(nums1Set);
-
-        // result.add(nums2Set.stream().collect(Collectors.toCollection(ArrayList::new)) );
-        
+        }
+        result.add(nums2lst);
         return result;
     }
 }
