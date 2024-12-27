@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajenderthota/Leet-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajenderthota/Leet-GFG/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0494-target-sum) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
