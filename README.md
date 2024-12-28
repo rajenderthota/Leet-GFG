@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rajenderthota/Leet-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/rajenderthota/Leet-GFG/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajenderthota/Leet-GFG/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/rajenderthota/Leet-GFG/tree/master/0136-single-number) |
 ## String Matching
 |  |
 | ------- |
