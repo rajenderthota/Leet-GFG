@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajenderthota/Leet-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rajenderthota/Leet-GFG/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajenderthota/Leet-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajenderthota/Leet-GFG/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
