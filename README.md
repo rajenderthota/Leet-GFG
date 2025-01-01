@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rajenderthota/Leet-GFG/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/rajenderthota/Leet-GFG/tree/master/0344-reverse-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajenderthota/Leet-GFG/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/rajenderthota/Leet-GFG/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0410-split-array-largest-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/rajenderthota/Leet-GFG/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/3427-special-array-ii) |
 ## Design
