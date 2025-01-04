@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
-                // Find the closest point on the rectangle to the circle's center
+        // Find the closest point on the rectangle to the circle's center
         int closestX = clamp(xCenter, x1, x2);
         int closestY = clamp(yCenter, y1, y2);
 
@@ -14,7 +14,7 @@ class Solution {
     }
 
 
-        // Helper function to clamp a value between min and max
+    // Helper function to clamp a value between min and max
     private int clamp(int value, int min, int max) {
         if (value < min) return min;
         if (value > max) return max;
