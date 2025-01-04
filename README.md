@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rajenderthota/Leet-GFG/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rajenderthota/Leet-GFG/tree/master/2812-find-the-maximum-achievable-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
