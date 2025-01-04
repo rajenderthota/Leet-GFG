@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajenderthota/Leet-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajenderthota/Leet-GFG/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajenderthota/Leet-GFG/tree/master/1917-maximum-average-pass-ratio) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajenderthota/Leet-GFG/tree/master/2358-number-of-ways-to-split-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rajenderthota/Leet-GFG/tree/master/2812-find-the-maximum-achievable-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajenderthota/Leet-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/rajenderthota/Leet-GFG/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
