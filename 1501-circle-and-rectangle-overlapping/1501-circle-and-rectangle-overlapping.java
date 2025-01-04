@@ -1,5 +1,11 @@
 class Solution {
     public boolean checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
+
+
+    // Step 1: Check if the circle's center is inside the rectangle
+    if (x1 <= xCenter && xCenter <= x2 && y1 <= yCenter && yCenter <= y2) {
+        return true; // The circle and rectangle overlap
+    }
         // Find the closest point on the rectangle to the circle's center
         int closestX = clamp(xCenter, x1, x2);
         int closestY = clamp(yCenter, y1, y2);
