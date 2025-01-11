@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0952-word-subsets](https://github.com/rajenderthota/Leet-GFG/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajenderthota/Leet-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rajenderthota/Leet-GFG/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/rajenderthota/Leet-GFG/tree/master/0952-word-subsets) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rajenderthota/Leet-GFG/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajenderthota/Leet-GFG/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/rajenderthota/Leet-GFG/tree/master/1894-merge-strings-alternately) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rajenderthota/Leet-GFG/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajenderthota/Leet-GFG/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
