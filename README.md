@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/rajenderthota/Leet-GFG/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rajenderthota/Leet-GFG/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rajenderthota/Leet-GFG/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajenderthota/Leet-GFG/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/rajenderthota/Leet-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rajenderthota/Leet-GFG/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rajenderthota/Leet-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rajenderthota/Leet-GFG/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Enumeration
 |  |
@@ -377,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rajenderthota/Leet-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
