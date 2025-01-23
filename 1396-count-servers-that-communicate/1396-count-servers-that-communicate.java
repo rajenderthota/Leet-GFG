@@ -1,8 +1,63 @@
 class Solution {
 
+
+//using dfs
+
+public int countServers(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+
+        boolean[][] visited = new boolean[m][n];
+        int totalServers = 0;
+
+        // Traverse the grid to find unvisited servers
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1 && !visited[i][j]) {
+                    // Perform DFS to count all connected servers
+                    int count = dfs(grid, visited, i, j);
+                    // Add to total if more than one server is found in the component
+                    if (count > 1) {
+                        totalServers += count;
+                    }
+                }
+            }
+        }
+
+        return totalServers;
+    }
+
+    private int dfs(int[][] grid, boolean[][] visited, int x, int y) {
+        int m = grid.length;
+        int n = grid[0].length;
+
+        // Mark the current server as visited
+        visited[x][y] = true;
+
+        int count = 1; // Count the current server
+
+        // Traverse all servers in the same row
+        for (int j = 0; j < n; j++) {
+            if (grid[x][j] == 1 && !visited[x][j]) {
+                count += dfs(grid, visited, x, j);
+            }
+        }
+
+        // Traverse all servers in the same column
+        for (int i = 0; i < m; i++) {
+            if (grid[i][y] == 1 && !visited[i][y]) {
+                count += dfs(grid, visited, i, y);
+            }
+        }
+
+        return count;
+    }
+
+
+
 //using bfs approach
 
- public int countServers(int[][] grid) {
+ public int countServers2(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
