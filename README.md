@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/rajenderthota/Leet-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/rajenderthota/Leet-GFG/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rajenderthota/Leet-GFG/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rajenderthota/Leet-GFG/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rajenderthota/Leet-GFG/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/rajenderthota/Leet-GFG/tree/master/2145-grid-game) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rajenderthota/Leet-GFG/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
@@ -405,5 +410,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
