@@ -1,9 +1,104 @@
 class Solution {
 
+//using union find
+
+public int countServers(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+
+        UnionFind uf = new UnionFind(m * n);
+
+        // Step 1: Union servers in the same row and column
+        for (int i = 0; i < m; i++) {
+            int prev = -1; // Track the previous server in the row
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    if (prev != -1) {
+                        uf.union(i * n + prev, i * n + j);
+                    }
+                    prev = j;
+                }
+            }
+        }
+
+        for (int j = 0; j < n; j++) {
+            int prev = -1; // Track the previous server in the column
+            for (int i = 0; i < m; i++) {
+                if (grid[i][j] == 1) {
+                    if (prev != -1) {
+                        uf.union(prev * n + j, i * n + j);
+                    }
+                    prev = i;
+                }
+            }
+        }
+
+        // Step 2: Count servers in each connected component
+        int[] serverCount = new int[m * n]; // To count servers in each component
+        int totalServers = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    int root = uf.find(i * n + j);
+                    serverCount[root]++;
+                }
+            }
+        }
+
+        // Step 3: Add components with more than one server
+        for (int count : serverCount) {
+            if (count > 1) {
+                totalServers += count;
+            }
+        }
+
+        return totalServers;
+    }
+
+    // Union-Find Helper Class
+    private static class UnionFind {
+        private int[] parent;
+        private int[] rank;
+
+        public UnionFind(int size) {
+            parent = new int[size];
+            rank = new int[size];
+            for (int i = 0; i < size; i++) {
+                parent[i] = i;
+                rank[i] = 0;
+            }
+        }
+
+        public int find(int x) {
+            if (parent[x] != x) {
+                parent[x] = find(parent[x]); // Path compression
+            }
+            return parent[x];
+        }
+
+        public void union(int x, int y) {
+            int rootX = find(x);
+            int rootY = find(y);
+            if (rootX != rootY) {
+                if (rank[rootX] > rank[rootY]) {
+                    parent[rootY] = rootX;
+                } else if (rank[rootX] < rank[rootY]) {
+                    parent[rootX] = rootY;
+                } else {
+                    parent[rootY] = rootX;
+                    rank[rootX]++;
+                }
+            }
+        }
+    }
+
+
+
 
 //using dfs
 
-public int countServers(int[][] grid) {
+public int countServers_dfs(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
