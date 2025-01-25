@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajenderthota/Leet-GFG/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rajenderthota/Leet-GFG/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rajenderthota/Leet-GFG/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3427-special-array-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rajenderthota/Leet-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajenderthota/Leet-GFG/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
