@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajenderthota/Leet-GFG/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajenderthota/Leet-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/rajenderthota/Leet-GFG/tree/master/1558-course-schedule-iv) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajenderthota/Leet-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajenderthota/Leet-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rajenderthota/Leet-GFG/tree/master/1558-course-schedule-iv) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
