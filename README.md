@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rajenderthota/Leet-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/rajenderthota/Leet-GFG/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0854-making-a-large-island](https://github.com/rajenderthota/Leet-GFG/tree/master/0854-making-a-large-island) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/rajenderthota/Leet-GFG/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajenderthota/Leet-GFG/tree/master/1025-minimum-cost-for-tickets) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajenderthota/Leet-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/rajenderthota/Leet-GFG/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/rajenderthota/Leet-GFG/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/rajenderthota/Leet-GFG/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rajenderthota/Leet-GFG/tree/master/1876-map-of-highest-peak) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajenderthota/Leet-GFG/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajenderthota/Leet-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/rajenderthota/Leet-GFG/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rajenderthota/Leet-GFG/tree/master/1558-course-schedule-iv) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/rajenderthota/Leet-GFG/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/rajenderthota/Leet-GFG/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rajenderthota/Leet-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rajenderthota/Leet-GFG/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
