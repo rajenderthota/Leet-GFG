@@ -1,16 +1,42 @@
 class Solution {
-    public int longestMonotonicSubarray(int[] nums) {
+
+
+public int longestMonotonicSubarray(int[] nums) {
+
+    int count=1;
+    int inc=1,dec=1;
+    int n=nums.length;
+    for( int i=1;i<n;i++){
+
+        if( nums[i] > nums[i-1]){
+            inc++;
+            dec=1;
+        }else if(nums[i] < nums[i-1]){
+            inc=1;
+            dec++;
+        }else{
+            inc=1;
+            dec=1;
+        }
+
+        count=Math.max(count,Math.max(inc, dec));
+    }
+
+    return count;
+}
+
+    //below bruteforce approach
+    public int longestMonotonicSubarray_bruteforce(int[] nums) {
 
         int max=1;
         int n=nums.length;
         //find longest stricly increasing subarray
         for(int i=0;i<n;i++){
-            int current=nums[i],count=0;
+            int current=nums[i];
              ArrayList<Integer> subArray=new ArrayList<>();
              subArray.add(current);
             for(int j=i+1;j<n;j++){
                 if(current < nums[j] ){
-                    count++;
                     subArray.add(nums[j]);
                     current=nums[j];
                 }else{
@@ -23,12 +49,11 @@ class Solution {
 
 
          for(int i=0;i<n;i++){
-            int current=nums[i],count=0;
+            int current=nums[i];
             ArrayList<Integer> subArray=new ArrayList<>();
             subArray.add(current);
             for(int j=i+1;j<n;j++){
                 if(current > nums[j] ){
-                    count++;
                     subArray.add(nums[j]);
                     current=nums[j];
                 }else{
