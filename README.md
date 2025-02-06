@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rajenderthota/Leet-GFG/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajenderthota/Leet-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajenderthota/Leet-GFG/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/rajenderthota/Leet-GFG/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/rajenderthota/Leet-GFG/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajenderthota/Leet-GFG/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0952-word-subsets](https://github.com/rajenderthota/Leet-GFG/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/rajenderthota/Leet-GFG/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajenderthota/Leet-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/rajenderthota/Leet-GFG/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/rajenderthota/Leet-GFG/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajenderthota/Leet-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajenderthota/Leet-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
