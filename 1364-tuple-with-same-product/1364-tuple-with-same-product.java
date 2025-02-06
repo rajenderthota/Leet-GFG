@@ -1,5 +1,28 @@
 class Solution {
-    public int tupleSameProduct(int[] nums) {
+
+
+     public int tupleSameProduct(int[] nums) {
+        Map<Integer, Integer> productCount = new HashMap<>();
+        int count = 0;
+        
+        // Compute all unique product pairs
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = i + 1; j < nums.length; j++) {
+                int product = nums[i] * nums[j];
+                productCount.put(product, productCount.getOrDefault(product, 0) + 1);
+            }
+        }
+        
+        // Compute the number of valid tuples
+        for (int freq : productCount.values()) {
+            if (freq > 1) {
+                count += (freq * (freq - 1)) / 2 * 8; // Each pair can be arranged in 8 ways
+            }
+        }
+        
+        return count;
+    }
+    public int tupleSameProduct1(int[] nums) {
          HashMap<Integer, List<int[]>> productMap = new HashMap<>();
         int count = 0;
 
