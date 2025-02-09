@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajenderthota/Leet-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2448-count-number-of-bad-pairs](https://github.com/rajenderthota/Leet-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/rajenderthota/Leet-GFG/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rajenderthota/Leet-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2547-odd-string-difference](https://github.com/rajenderthota/Leet-GFG/tree/master/2547-odd-string-difference) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2434-design-a-number-container-system](https://github.com/rajenderthota/Leet-GFG/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/rajenderthota/Leet-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2547-odd-string-difference](https://github.com/rajenderthota/Leet-GFG/tree/master/2547-odd-string-difference) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajenderthota/Leet-GFG/tree/master/2685-first-completely-painted-row-or-column) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajenderthota/Leet-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rajenderthota/Leet-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rajenderthota/Leet-GFG/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2448-count-number-of-bad-pairs](https://github.com/rajenderthota/Leet-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rajenderthota/Leet-GFG/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajenderthota/Leet-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/rajenderthota/Leet-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rajenderthota/Leet-GFG/tree/master/2812-find-the-maximum-achievable-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
