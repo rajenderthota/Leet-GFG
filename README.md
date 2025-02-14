@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajenderthota/Leet-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/rajenderthota/Leet-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/rajenderthota/Leet-GFG/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajenderthota/Leet-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rajenderthota/Leet-GFG/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajenderthota/Leet-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rajenderthota/Leet-GFG/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rajenderthota/Leet-GFG/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rajenderthota/Leet-GFG/tree/master/0189-rotate-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajenderthota/Leet-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0410-split-array-largest-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajenderthota/Leet-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/rajenderthota/Leet-GFG/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajenderthota/Leet-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajenderthota/Leet-GFG/tree/master/0155-min-stack) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajenderthota/Leet-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/rajenderthota/Leet-GFG/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -486,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajenderthota/Leet-GFG/tree/master/0141-linked-list-cycle) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajenderthota/Leet-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
