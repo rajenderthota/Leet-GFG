@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/rajenderthota/Leet-GFG/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/rajenderthota/Leet-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rajenderthota/Leet-GFG/tree/master/2812-find-the-maximum-achievable-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/rajenderthota/Leet-GFG/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/rajenderthota/Leet-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
