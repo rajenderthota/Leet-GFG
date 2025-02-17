@@ -1,5 +1,38 @@
 class Solution {
+
     public int numTilePossibilities(String tiles) {
+        // Set to store unique sequences
+        Set<String> result = new HashSet<>();
+        // Array to store the frequency of each letter in tiles
+        int[] freq = new int[26];
+        
+        // Fill the frequency array
+        for (char c : tiles.toCharArray()) {
+            freq[c - 'A']++;
+        }
+        
+        // Start backtracking
+        backtrack(freq, "", result);
+        return result.size();
+    }
+
+    private void backtrack(int[] freq, String current, Set<String> result) {
+        // If current sequence is not empty, add it to result
+        if (!current.isEmpty()) {
+            result.add(current);
+        }
+
+        // Explore all letters
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                // Make the choice: choose the current letter
+                freq[i]--; // reduce the frequency of the chosen letter
+                backtrack(freq, current + (char) (i + 'A'), result); // explore with the new sequence
+                freq[i]++; // Undo the choice: restore the frequency of the letter
+            }
+        }
+    }
+    public int numTilePossibilities1(String tiles) {
         
              Set<String> result = new HashSet<>();
         backtrack(tiles, "", result);
