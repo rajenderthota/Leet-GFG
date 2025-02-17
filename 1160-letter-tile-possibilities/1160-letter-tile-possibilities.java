@@ -1,6 +1,43 @@
 class Solution {
 
+
     public int numTilePossibilities(String tiles) {
+        // Set to store unique sequences
+        Set<String> result = new HashSet<>();
+        
+        // Array to store the frequency of each letter in tiles
+        int[] freq = new int[26];
+        
+        // Fill the frequency array
+        for (char c : tiles.toCharArray()) {
+            freq[c - 'A']++;
+        }
+        
+        // Start DFS to explore all possible sequences
+        dfs(freq, "", result);
+        
+        // Return the number of unique sequences
+        return result.size();
+    }
+
+    private void dfs(int[] freq, String current, Set<String> result) {
+        // If current sequence is not empty, add it to result
+        if (!current.isEmpty()) {
+            result.add(current);
+        }
+
+        // Explore all letters
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                // Make the choice: choose the current letter
+                freq[i]--;  // Use this letter
+                dfs(freq, current + (char) (i + 'A'), result);  // Explore with this letter added
+                freq[i]++;  // Undo the choice: backtrack by restoring the letter frequency
+            }
+        }
+    }
+
+    public int numTilePossibilities2(String tiles) {
         // Set to store unique sequences
         Set<String> result = new HashSet<>();
         // Array to store the frequency of each letter in tiles
