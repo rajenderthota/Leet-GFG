@@ -5,20 +5,16 @@ class Solution {
 
         int n=nums.length;
         PriorityQueue<Integer> pq=new PriorityQueue<>(k);
-
         for(int i=0;i<k;i++){
-            pq.add(nums[i]);
+            pq.offer(nums[i]);
         }
-
         for(int i=k;i<n;i++){
-
             if(pq.peek() < nums[i]){
                 pq.poll();
-                pq.add(nums[i]);
+                pq.offer(nums[i]);
             }
 
         }
-
         return pq.poll();
      }
 
