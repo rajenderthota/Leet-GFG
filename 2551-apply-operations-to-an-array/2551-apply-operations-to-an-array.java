@@ -1,9 +1,36 @@
 class Solution {
 
+    //using two point approach
+
+       public static int[] applyOperations(int[] nums) {
+        int n = nums.length;
+        
+        // Step 1: Apply the operations in sequence
+        for (int i = 0; i < n - 1; i++) {
+            if (nums[i] == nums[i + 1]) {
+                nums[i] *= 2;
+                nums[i + 1] = 0;
+            }
+        }
+        
+        // Step 2: Two-pointer approach to shift non-zero elements forward
+        int left = 0; // Pointer to place the next non-zero element
+        for (int right = 0; right < n; right++) {
+            if (nums[right] != 0) {
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+                left++;
+            }
+        }
+        
+        return nums;
+    }
+
 
 // little optimation
 
- public int[] applyOperations(int[] nums) {
+ public int[] applyOperations2(int[] nums) {
 
     int n=nums.length,count=0;
 
