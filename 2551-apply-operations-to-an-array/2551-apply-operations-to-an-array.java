@@ -1,5 +1,41 @@
 class Solution {
-    public int[] applyOperations(int[] nums) {
+
+
+// little optimation
+
+ public int[] applyOperations(int[] nums) {
+
+    int n=nums.length,count=0;
+
+    for( int i=0;i<n-1;i++){
+
+        if( nums[i] == nums[i+1]){
+            nums[i]=2*nums[i+1];
+            nums[i+1]=0;
+        }
+    }
+
+    for(int i=0;i<n;i++){
+
+        if( nums[i] != 0){
+            nums[count]=nums[i];
+            count++;
+        }
+    }
+
+       // Fill the remaining elements with zero
+        while (count < n) {
+            nums[count++] = 0;
+        }
+
+    return nums;
+
+ }
+
+
+
+
+    public int[] applyOperations1(int[] nums) {
 
         int n=nums.length;
 
