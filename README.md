@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajenderthota/Leet-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajenderthota/Leet-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajenderthota/Leet-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/rajenderthota/Leet-GFG/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajenderthota/Leet-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajenderthota/Leet-GFG/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajenderthota/Leet-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajenderthota/Leet-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajenderthota/Leet-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rajenderthota/Leet-GFG/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rajenderthota/Leet-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rajenderthota/Leet-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/rajenderthota/Leet-GFG/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajenderthota/Leet-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rajenderthota/Leet-GFG/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rajenderthota/Leet-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajenderthota/Leet-GFG/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
