@@ -1,8 +1,8 @@
 class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
 
-        Arrays.sort(nums1,(a,b)->a[0]-b[0]);
-        Arrays.sort(nums2, (a,b)->a[0]-b[0]);
+        // Arrays.sort(nums1,(a,b)->a[0]-b[0]);
+        // Arrays.sort(nums2, (a,b)->a[0]-b[0]);
         HashSet<Integer> equalSet=new HashSet<>();
         int n=nums1.length;
         int m=nums2.length;
