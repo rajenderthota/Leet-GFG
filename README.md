@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/rajenderthota/Leet-GFG/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1585-the-kth-factor-of-n](https://github.com/rajenderthota/Leet-GFG/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajenderthota/Leet-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajenderthota/Leet-GFG/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajenderthota/Leet-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/rajenderthota/Leet-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rajenderthota/Leet-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
